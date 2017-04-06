@@ -1,4 +1,4 @@
 # Hello-World
-test repo
+This is an edited version of README.
 
-Insert edits here.
+It is in a different branch than the master README file.
